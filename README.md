@@ -23,6 +23,6 @@ i'm Anatoly Adamovich, a last-year student living in Saint Petersburg. My scient
  there are also some my projects:
 
 - 🆕 <a href="https://github.com/AnatolyAdamovich/kontur-internship-2022">news classification</a> using classical machine learning 
-- 🌀 <a href="https://github.com/AnatolyAdamovich/kontur-internship-2022">graph library</a> based on an object-oriented programming approach
+- 🌀 <a href="https://github.com/AnatolyAdamovich/graph-analysis">graph library</a> based on an object-oriented programming approach
 
   
