@@ -1,7 +1,4 @@
-<p align="center"><img width="80%" alt="hey there" src="https://i.ibb.co/Jzwg0fD/gith.png"/></a></p>
 <br />
-
-i'm Anatoly Adamovich, a last-year student living in Saint Petersburg. My scientific interests include **data science**, in particular machine learning, analytics, optimization methods
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
@@ -19,9 +16,9 @@ i'm Anatoly Adamovich, a last-year student living in Saint Petersburg. My scient
 </div>
 
 
- 💜 i love  learning and keep a <a href="https://github.com/AnatolyAdamovich/learning">repository</a> where I collect my notes.  
- there are also some my projects:
-
+ 💜 i keep a <a href="https://github.com/AnatolyAdamovich/learning">repository</a> where I collect my notes from self-study.  
+ 
+ there are also some projects:
 - 🆕 <a href="https://github.com/AnatolyAdamovich/kontur-internship-2022">news classification</a> using classical machine learning 
 - 🌀 <a href="https://github.com/AnatolyAdamovich/graph-analysis">graph library</a> based on an object-oriented programming approach
 
