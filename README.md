@@ -22,5 +22,5 @@
 - <a href="https://github.com/AnatolyAdamovich/DamerauLevenshteinDistance">Non-classical analysis</a> of the algorithm's running time using confidence intervals 
 
 **and other:**
-- <a href="">Classification of news</a> using classical machine learning approach
+- <a href="https://github.com/AnatolyAdamovich/kontur-internship-2022">Classification of news</a> using classical machine learning approach
   
