@@ -1,8 +1,6 @@
 <br />
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
-</div>
+
 <div id="badges" align="center">
   <a href="https://leetcode.com/ffrankusha/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge"/>
@@ -16,10 +14,13 @@
 </div>
 
 
- 💜 i keep a <a href="https://github.com/AnatolyAdamovich/learning">repository</a> where I collect my notes from self-study.  
+ 💜 <a href="https://github.com/AnatolyAdamovich/learning">repository</a> with self-study materials   
  
- there are also some projects:
-- 🆕 <a href="https://github.com/AnatolyAdamovich/kontur-internship-2022">news classification</a> using classical machine learning 
-- 🌀 <a href="https://github.com/AnatolyAdamovich/graph-analysis">graph library</a> based on an object-oriented programming approach
+ **University projects:**
+- <a href="https://www.kaggle.com/code/anatosly/eda-bangalore-restaurants">Exploratory Data Analysis</a> with Zomato Dataset
+- <a href="https://github.com/AnatolyAdamovich/graph-analysis">Graph library</a> based on an object-oriented programming approach
+- <a href="https://github.com/AnatolyAdamovich/DamerauLevenshteinDistance">Non-classical analysis</a> of the algorithm's running time using confidence intervals 
 
+**and other:**
+- <a href="">Classification of news</a> using classical machine learning approach
   
